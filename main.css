@@ -1,0 +1,53 @@
+body {
+    background-color: #ffe500;
+}
+
+h1{
+    color: #b20953;
+    font-family: 'Sigmar One', sans-serif;
+    text-align: center;
+    font-size: 3rem;
+}
+
+h2{
+   color: #b20953;
+   font-family: 'Sigmar One', sans-serif;
+   font-size: 1.875rem;
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+   
+    
+}
+
+a{
+    background-color: #b2a212;
+    color: #ffff;
+    list-style-type: none;
+    padding: 0 .75em .75em;
+    border-radius: 4px;
+    font-size: 1.125rem;
+    text-decoration: none;
+    
+    
+}
+
+a :hover{
+    background-color: #cc1465; 
+    
+}
+
+.para-body{
+    background-color: #ffffff;
+    line-height: 1.5;
+    font-family: Georgia;
+    padding: .2em .5em .3em;
+    
+    
+}
+
+footer{
+    text-align: center;
+}

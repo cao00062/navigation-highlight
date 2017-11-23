@@ -34,9 +34,13 @@ a{
     
 }
 
-a :hover{
+a:hover{
     background-color: #cc1465; 
     
+}
+
+a:active{
+    color: #cc1465; 
 }
 
 .para-body{
@@ -45,9 +49,13 @@ a :hover{
     font-family: Georgia;
     padding: .2em .5em .3em;
     
-    
+}
+
+img{
+    margin: .3em; 
 }
 
 footer{
     text-align: center;
+    font-size: .75em;
 }
